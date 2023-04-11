@@ -1,0 +1,191 @@
+<html>
+<head>
+<title>landing page</title>
+<style>
+
+div.pic
+{
+background-image:url("pink.jpg");
+background-position:center;
+background-size:2000px;
+background-repeat:no-repeat;
+margin:0;
+padding:0;
+max-width:100%;
+}
+
+
+
+div.mid
+{
+display:flex;
+align-items:center;
+}
+
+
+div.image{
+max-width:100%;
+max-height:100%;
+margin-right:20px;
+margin-left:440px;
+margin-top:40px;
+}
+
+
+div.third
+{
+display:flex;
+align-items:center;
+}
+
+
+div.image1{
+max-width:100%;
+max-height:100%;
+margin-right:440px;
+margin-left:20px;
+margin-top:40px;
+}
+
+
+div.text1{
+margin-left:450px;}
+
+
+.s
+{
+margin-left:40px;
+}
+
+
+div.ic1
+{
+display:flex;
+}
+
+.im
+{
+max-width:100%;
+max-height:100%;
+margin-right:60px;
+margin-left:350px;
+margin-top:60px;
+}
+.im1
+{
+max-width:100%;
+max-height:100%;
+margin-right:60px;
+margin-top:60px;
+
+}
+.im2
+{
+max-width:100%;
+max-height:100%;
+margin-top:60px;
+}
+
+
+div.ic2
+{
+display:flex;
+}
+.tx1
+{
+margin-right:130px;
+margin-left:380px;
+margin-top:60px;
+}
+.tx2
+{
+margin-right:130px;
+margin-top:60px;
+}
+.tx3
+{
+margin-top:60px;
+}
+
+
+</style>
+</head>
+<body>
+
+<div class="pic">
+<p>&nbsp </p>
+<h1><center>The VPN that just works</center></h1>																															
+<b><center>Go further with trusted leaders</center></b><br>		
+<center><button style="background-color:red; color:white; border-color:white; 
+border-radius:10%; height:40px"> Get ExpressVPN</input></center>
+<p>&nbsp </p>
+</div>
+
+<div class="mid">
+<div class="image">
+<img src="icon.png">
+</div>
+<div class="text">
+<h1>Secure access,<br> worldwide</h1>
+<p>connect widely from anywhere</p>
+</div>
+</div>
+
+
+<div class="third">
+<div class="text1">
+<h1>One click to a<br> safer internet</h1>
+<p>Going online doesn't have to<br> mean being exposed</p>
+</div>
+<div class="image1">
+<img src="icon2.png">
+</div>
+</div>
+
+
+<p>&nbsp </p>
+<div class="ic1">
+<div class="im">
+<img src="data.png">
+</div>
+<div class="im1">
+<img src="ev1.png">
+</div>
+<div class="im2">
+<img src="cmn2.png">
+</div>
+</div>
+
+<div class="ic2">
+<div class="tx1">
+<h2>Stronger data<br> connection </h2>
+</div>
+<div class="tx2">
+<h2>Work seamlessly<br> anywhere </h2>
+</div>
+<div class="tx3">
+<h2>Lightening quick<br> connectivity </h2>
+</div>
+</div>
+<p>&nbsp </p>
+<center>
+<a href="one.html"> See more advantages </a>
+</center>
+<p>&nbsp </p>
+<footer style="background-image:url('map1.jpg'); margin:0; padding:0; height:500px; width:1500px; max-width:100%">
+<center><h1> Ultra fast servers around the globe!</h1></center>
+</footer>
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
